@@ -1,0 +1,10 @@
+spring:
+  cloud:
+    config:
+      uri: '@configServerPath@'
+      name: orders,eureka,datasource,rabbitmq
+      profile: '@activeProfile@'
+#      discovery:
+#        enabled: true
+#        service-id: config-server
+#    import=configserver: http://localhost:30000

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/commons/commons.iml" filepath="$PROJECT_DIR$/commons/commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config/config.iml" filepath="$PROJECT_DIR$/config/config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/entity/entity.iml" filepath="$PROJECT_DIR$/entity/entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka/eureka.iml" filepath="$PROJECT_DIR$/eureka/eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway/gateway.iml" filepath="$PROJECT_DIR$/gateway/gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro_service/micro_goods/micro_goods.iml" filepath="$PROJECT_DIR$/micro_service/micro_goods/micro_goods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro_service/micro_kill/micro_kill.iml" filepath="$PROJECT_DIR$/micro_service/micro_kill/micro_kill.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro_service/micro_orders/micro_orders.iml" filepath="$PROJECT_DIR$/micro_service/micro_orders/micro_orders.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro_service/micro_service.iml" filepath="$PROJECT_DIR$/micro_service/micro_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seckill.iml" filepath="$PROJECT_DIR$/seckill.iml" />
+    </modules>
+  </component>
+</project>

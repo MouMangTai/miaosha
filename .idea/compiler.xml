@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="gateway" />
+        <module name="commons" />
+        <module name="entity" />
+        <module name="eureka" />
+        <module name="micro_orders" />
+        <module name="micro_service" />
+        <module name="micro_kill" />
+        <module name="config" />
+        <module name="micro_goods" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="commons" target="11" />
+      <module name="config" target="11" />
+      <module name="entity" target="11" />
+      <module name="eureka" target="11" />
+      <module name="gateway" target="11" />
+      <module name="micro_goods" target="11" />
+      <module name="micro_kill" target="11" />
+      <module name="micro_orders" target="11" />
+      <module name="micro_service" target="11" />
+      <module name="seckill" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="commons" options="-parameters" />
+      <module name="config" options="-parameters" />
+      <module name="entity" options="-parameters" />
+      <module name="eureka" options="-parameters" />
+      <module name="gateway" options="-parameters" />
+      <module name="micro_goods" options="-parameters" />
+      <module name="micro_kill" options="-parameters" />
+      <module name="micro_orders" options="-parameters" />
+      <module name="micro_service" options="-parameters" />
+      <module name="seckill" options="-parameters" />
+    </option>
+  </component>
+</project>

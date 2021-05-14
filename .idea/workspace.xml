@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="280e78a8-48cf-4896-b635-792621e3874d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="miaosha: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="miaosha: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="goods: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="miaosha: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="orders: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+    <option name="enabledProfiles">
+      <list>
+        <option value="local" />
+      </list>
+    </option>
+    <option name="disabledProfiles">
+      <list>
+        <option value="test" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1sK54StpR2RH2e3QJ6GY9L2csDL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/entity/src/main/java/com/moumangtai/entity" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\MouMangTai\seckill\config\src\main\resources\config\local" />
+      <recent name="D:\MouMangTai\seckill\micro_service\micro_orders\src\main\resources" />
+      <recent name="D:\MouMangTai\seckill\config\src\main\resources\config\test" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\MouMangTai\seckill\micro_service" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Kill">
+    <configuration name="Config" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="config" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.moumangtai.config.ConfigApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Eureka" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.moumangtai.eureka.EurekaApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Gateway" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.moumangtai.gateway.GatewayApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Goods" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="micro_goods" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.moumangtai.micro_goods.MicroGoodsApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Kill" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="micro_kill" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.moumangtai.micro_kill.MicroKillApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Orders" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="micro_orders" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.moumangtai.micro_orders.MicroOrdersApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.Config" />
+      <item itemvalue="Spring Boot.Eureka" />
+      <item itemvalue="Spring Boot.Gateway" />
+      <item itemvalue="Spring Boot.Goods" />
+      <item itemvalue="Spring Boot.Orders" />
+      <item itemvalue="Spring Boot.Kill" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.15846995" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="280e78a8-48cf-4896-b635-792621e3874d" name="Default Changelist" comment="" />
+      <created>1620608249259</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620608249259</updated>
+      <workItem from="1620608252472" duration="7108000" />
+      <workItem from="1620615524326" duration="6402000" />
+      <workItem from="1620627004775" duration="3933000" />
+      <workItem from="1620696890338" duration="13637000" />
+      <workItem from="1620782323506" duration="17017000" />
+      <workItem from="1620864954998" duration="2590000" />
+      <workItem from="1620887107284" duration="3064000" />
+      <workItem from="1620899345443" duration="4998000" />
+      <workItem from="1620950380506" duration="7562000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="682" y="59" key="#Inspections" timestamp="1620887731157">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="682" y="59" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1620887731157" />
+    <state x="447" y="89" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1620782942902">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="447" y="89" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1620782942902" />
+    <state x="1122" y="193" key="#com.intellij.ide.util.MemberChooser" timestamp="1620955997696">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="1122" y="193" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1620955997696" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1620955924441">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1620955924441" />
+    <state x="681" y="161" key="FileChooserDialogImpl" timestamp="1620955934441">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="681" y="161" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1620955934441" />
+    <state width="1231" height="219" key="GridCell.Tab.0.bottom" timestamp="1620958144483">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1231" height="219" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1620958144483" />
+    <state width="1231" height="219" key="GridCell.Tab.0.center" timestamp="1620958144483">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1231" height="219" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1620958144483" />
+    <state width="1231" height="219" key="GridCell.Tab.0.left" timestamp="1620958144483">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1231" height="219" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1620958144483" />
+    <state width="1231" height="219" key="GridCell.Tab.0.right" timestamp="1620958144483">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1231" height="219" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1620958144483" />
+    <state width="1231" height="219" key="GridCell.Tab.1.bottom" timestamp="1620958144483">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1231" height="219" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1620958144483" />
+    <state width="1231" height="219" key="GridCell.Tab.1.center" timestamp="1620958144483">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1231" height="219" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1620958144483" />
+    <state width="1231" height="219" key="GridCell.Tab.1.left" timestamp="1620958144483">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1231" height="219" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1620958144483" />
+    <state width="1231" height="219" key="GridCell.Tab.1.right" timestamp="1620958144483">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1231" height="219" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1620958144483" />
+    <state x="181" y="109" key="SettingsEditor" timestamp="1620615202728">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="181" y="109" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1620615202728" />
+    <state x="515" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1620950419845">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="515" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1620950419845" />
+    <state x="631" y="157" width="905" height="597" key="new project wizard" timestamp="1620866469545">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="631" y="157" width="905" height="597" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1620866469545" />
+    <state x="1083" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1620903820042">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="1083" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1620903820042" />
+  </component>
+</project>

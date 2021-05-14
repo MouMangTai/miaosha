@@ -1,0 +1,12 @@
+server:
+  port: 30000
+spring:
+  application:
+    name: config-server
+  cloud:
+    config:
+      server:
+        native:
+          search-locations: ['classpath:config/local','classpath:config/test','classpath:config/prod']
+  profiles:
+    active: native
